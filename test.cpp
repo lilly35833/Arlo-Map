@@ -4,5 +4,6 @@ using namespace std;
 void main() {
 
 	//cout << "Hello Gihub"; //민주
-	cout << "Hello Gihub!!"; //정연
+	//cout << "Hello Gihub!!"; //정연
+	cout << "Hello Gihub!!:)"; //jhe
 }
