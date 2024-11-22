@@ -3,5 +3,6 @@ using namespace std;
 
 void main() {
 
-	cout << "Hello Gihub"; //¹ÎÁÖ
+	//cout << "Hello Gihub"; //¹ÎÁÖ
+	cout << "Hello Gihub!!"; //Á¤¿¬
 }
